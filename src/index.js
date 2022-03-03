@@ -1,6 +1,6 @@
 import '../provider/index.js'
 
-import { signEvent } from './ios.js'
+import { signEvent } from './signEvent.js'
 
 import { init } from './init.js'
 import { privateKeyToAccount } from './utils'
